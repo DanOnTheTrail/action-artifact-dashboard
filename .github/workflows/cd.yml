@@ -21,16 +21,13 @@ jobs:
         uses: actions/setup-node@v3.5.1
         with:
           node-version-file: ".nvmrc"
-          cache: npm
-
-      - name: Install
-        run: npm ci
+          cache: yarn
 
       - name: Lint
-        run: npm run lint
+        run: yarn lint
 
       - name: Test
-        run: npm run test:ci
+        run: yarn test:ci
 
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@cb201f3b2d7a38231a8c042dfea4539c8bea180b
