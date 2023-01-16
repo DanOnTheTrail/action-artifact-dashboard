@@ -20,6 +20,6 @@
     "jest-sonar": "^0.2.15",
     "morgan": "^1.10.0",
     "open": "^8.4.0",
-    "prettier": "^2.8.1"
+    "prettier": "^2.8.3"
   }
 }
