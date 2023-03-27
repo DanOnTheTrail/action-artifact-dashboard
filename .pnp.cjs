@@ -44,7 +44,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-sonar", "npm:0.2.15"],\
             ["morgan", "npm:1.10.0"],\
             ["open", "npm:8.4.0"],\
-            ["prettier", "npm:2.8.2"]\
+            ["prettier", "npm:2.8.7"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -1685,7 +1685,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-sonar", "npm:0.2.15"],\
             ["morgan", "npm:1.10.0"],\
             ["open", "npm:8.4.0"],\
-            ["prettier", "npm:2.8.2"]\
+            ["prettier", "npm:2.8.7"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -5973,10 +5973,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["prettier", [\
-        ["npm:2.8.2", {\
-          "packageLocation": "./.yarn/cache/prettier-npm-2.8.2-201e3d1dcf-740c56c212.zip/node_modules/prettier/",\
+        ["npm:2.8.7", {\
+          "packageLocation": "./.yarn/cache/prettier-npm-2.8.7-1962ac9483-fdc8f2616f.zip/node_modules/prettier/",\
           "packageDependencies": [\
-            ["prettier", "npm:2.8.2"]\
+            ["prettier", "npm:2.8.7"]\
           ],\
           "linkType": "HARD"\
         }]\
